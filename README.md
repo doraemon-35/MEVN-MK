@@ -53,7 +53,7 @@ With Veniqa, you have choices.
 * Web Client for Shoppers
 * Web Client for Management
 
----
+----------
 
 ## Few Things Under The Hood :factory:
 
